@@ -1,0 +1,33 @@
+.score-counter-value, .score-counter-value1, .score-counter-value2 {
+	border-radius: 100%;
+	border-color: #0682a8;
+	border-style: solid;
+    width: 15%;
+    padding: 13%;
+    text-align: center;
+	color: white;
+	background-color: #0682a8;
+	margin: 0 30%;
+	font-size: 110%;
+}
+
+.figure {
+	margin: 10px 20px;
+	text-align: center;
+	height: 20%;
+	color: #0682a8;
+}
+
+.subscore {
+	margin: 20px;
+	color: #02537c;
+}
+
+.all-figures {
+	display: inline-flex;
+}
+
+h2 {
+	text-align: center;
+	color: #02537c;
+}
